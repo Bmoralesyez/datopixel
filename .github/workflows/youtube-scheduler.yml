@@ -1,0 +1,52 @@
+name: Agendar videos en YouTube
+
+on:
+  schedule:
+    # Cada 6 h en minutos "tranquilos". YouTube publica a la hora exacta (publishAt),
+    # asi que el retraso del cron de GitHub no afecta la hora de publicacion.
+    - cron: "17 2,8,14,20 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Solo validar, sin subir nada"
+        type: boolean
+        default: false
+      horizon_hours:
+        description: "Subir videos que se publican dentro de estas horas"
+        default: "72"
+
+permissions:
+  contents: write   # para guardar el estado (video_id) en programacion/youtube.json
+
+concurrency:
+  group: youtube-scheduler
+  cancel-in-progress: false
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ejecutar el agendador
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          ARGS="--horizon-hours ${{ inputs.horizon_hours || '72' }}"
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python3 scripts/youtube_scheduler.py $ARGS
+      - name: Guardar estado en el repo
+        if: always()   # aunque un item falle, hay que guardar los video_id ya subidos
+        run: |
+          if ! git diff --quiet -- programacion/youtube.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add programacion/youtube.json
+            git commit -m "Estado del agendador de YouTube [skip ci]"
+            git push
+          fi

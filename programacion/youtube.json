@@ -1,0 +1,5 @@
+{
+  "zona_horaria": "America/Santiago",
+  "nota": "Cada item: carpeta (dentro de DatoPixel/), publicar (YYYY-MM-DD HH:MM hora local) y portada (A o B). El campo 'estado' lo escribe el script.",
+  "items": []
+}
