@@ -32,3 +32,9 @@ El usuario no quiere crear un proyecto en Google Cloud. Windsor.ai (conectores g
 - Prueba real (19/11): "¿Cómo flota un barco de acero?" subido como privado con `publish_at` 2026-11-20 14:00 (Santiago) = 17:00 UTC. Zapier lo aceptó (a pesar de su nota "solo Partner"), YouTube devolvió `privacyStatus=private` y `publishAt` correctos, y la portada quedó aplicada. Video leído desde la URL raw de GitHub.
 - Zapier no tiene acción de comentar, así que el primer comentario queda pendiente (posible vía `_zap_raw_request` a `commentThreads`).
 - El script de `scripts/youtube_scheduler.py` y su workflow quedan como respaldo; no hace falta configurar los Secrets si se usa Zapier.
+
+## 2026-11-19: Instagram vía Windsor.ai for Social Media (prueba real)
+- Conectada la cuenta datopixel3d (Instagram Login). Acción `create_video_post` publica un Reel desde una URL pública (raw de GitHub); `create_comment` agrega el primer comentario.
+- Prueba: Reel "Barco de acero flota" publicado a las 22:00 (Santiago) con texto del .docx, aparece en el feed; primer comentario publicado. Media id 18109477697629549.
+- Limitación: publica al momento, sin programación. Portada personalizada solo JPEG por URL; se usó el primer fotograma.
+- TikTok: ninguna herramienta conectada publica (Zapier solo tiene anuncios/leads, Windsor solo lee). Opciones: Metricool solo para TikTok desde el 1/12 (20 al mes por red), o manual.
