@@ -44,3 +44,11 @@ El usuario no quiere crear un proyecto en Google Cloud. Windsor.ai (conectores g
 - Prueba: "Barco de acero flota" publicado en TikTok con `posts_publish_now` desde la URL raw de GitHub (estado "published"). Post ID Zernio 6b00d13212205d28e28e9f78.
 - Pendiente: confirmar en la app que quedó público con buena calidad, probar programación (`schedule_minutes`) y encontrar cómo agregar el primer comentario (la herramienta de Zernio solo responde comentarios existentes).
 - Estado por red: YouTube = Zapier (programa hora); Instagram = Windsor (al momento); TikTok = Zernio (programable según documentación, por verificar).
+
+## 2026-11-20 — Prueba en 3 redes: Péndulo de Foucault (programado)
+- Video: `DatoPixel/Pendulo de Foucault - 13-11-2026`. Publicación programada para sáb 21/11 14:00 Santiago (17:00Z) en las 3 redes.
+- YouTube (Zapier `upload_video`, privado + `publish_at`): id `oUcl_Y2LE_w`, confirmado `privacyStatus=private`, `publishAt=2026-11-21T17:00:00Z`.
+- TikTok (Zernio, cuenta datopixel3d): post `6b00d20dfda4cd21d00e4c84`, estado `scheduled` 17:00Z.
+- Instagram (Zernio, cuenta datopixel3d): post `6b00d20e9956cdf1a3d3e3c7`, estado `scheduled` 17:00Z.
+- Nota: `posts_create` solo acepta minutos relativos y quedó a 16:59Z; se corrigió con `posts_update(scheduled_for)`.
+- Pendiente: verificar que las 3 salgan a la hora; primer comentario en YouTube/TikTok/Instagram (Zernio no puede crear comentario propio).
