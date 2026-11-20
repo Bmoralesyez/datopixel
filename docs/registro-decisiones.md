@@ -24,3 +24,11 @@ Metricool (plan gratuito) permite 20 posts publicados al mes, contados por red. 
 - Verificar en la práctica que un proyecto no verificado puede agendar (desde 2/11/2026 ya no se fuerza a privado, pero hay que comprobarlo).
 - Decidir método para Instagram y TikTok.
 - Qué hacer con los posts ya agendados en Metricool desde el 17/11 (fallarán hasta el 1/12) y con los 3 del 16/11 que fallaron.
+
+## 2026-11-19: Cambio de método para YouTube, sin Google Cloud
+El usuario no quiere crear un proyecto en Google Cloud. Windsor.ai (conectores general y Social Media) no sube videos: en YouTube solo edita videos ya subidos y TikTok no tiene acciones de publicación. Instagram sí tiene `create_video_post` (publica al momento, desde una URL pública), pero no está conectado.
+
+**Zapier (conector de Claude) sí sube a YouTube.** Acción `upload_video` + `upload_video_thumbnail`, con la app aprobada de Zapier; el usuario solo autorizó su canal con un clic.
+- Prueba real (19/11): "¿Cómo flota un barco de acero?" subido como privado con `publish_at` 2026-11-20 14:00 (Santiago) = 17:00 UTC. Zapier lo aceptó (a pesar de su nota "solo Partner"), YouTube devolvió `privacyStatus=private` y `publishAt` correctos, y la portada quedó aplicada. Video leído desde la URL raw de GitHub.
+- Zapier no tiene acción de comentar, así que el primer comentario queda pendiente (posible vía `_zap_raw_request` a `commentThreads`).
+- El script de `scripts/youtube_scheduler.py` y su workflow quedan como respaldo; no hace falta configurar los Secrets si se usa Zapier.
