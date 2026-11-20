@@ -38,3 +38,9 @@ El usuario no quiere crear un proyecto en Google Cloud. Windsor.ai (conectores g
 - Prueba: Reel "Barco de acero flota" publicado a las 22:00 (Santiago) con texto del .docx, aparece en el feed; primer comentario publicado. Media id 18109477697629549.
 - Limitación: publica al momento, sin programación. Portada personalizada solo JPEG por URL; se usó el primer fotograma.
 - TikTok: ninguna herramienta conectada publica (Zapier solo tiene anuncios/leads, Windsor solo lee). Opciones: Metricool solo para TikTok desde el 1/12 (20 al mes por red), o manual.
+
+## 2026-11-20: TikTok vía Zernio (prueba real)
+- Zernio (conector MCP, OAuth) con la cuenta TikTok @datopixel3d conectada; plan gratis (2 primeras cuentas, posts ilimitados, programación). Cuenta sana y con permiso `video.publish`.
+- Prueba: "Barco de acero flota" publicado en TikTok con `posts_publish_now` desde la URL raw de GitHub (estado "published"). Post ID Zernio 6b00d13212205d28e28e9f78.
+- Pendiente: confirmar en la app que quedó público con buena calidad, probar programación (`schedule_minutes`) y encontrar cómo agregar el primer comentario (la herramienta de Zernio solo responde comentarios existentes).
+- Estado por red: YouTube = Zapier (programa hora); Instagram = Windsor (al momento); TikTok = Zernio (programable según documentación, por verificar).
