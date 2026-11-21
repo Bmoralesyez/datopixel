@@ -73,3 +73,10 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 - Zapier limita las subidas a YouTube en paralelo ("throttled"): hay que subir de a una, con pausa. Tras 8 subidas seguidas volvió a devolver throttled de forma sostenida; quedan 3 por subir.
 - Los posts de Zernio quedan a la hora exacta con `posts_update(scheduled_for)` tras crearlos con `schedule_minutes`.
 - Los posts de Metricool de esas fechas seguirán en su cola y fallarán: conviene borrarlos desde Metricool antes del 1/12 para que no se dupliquen al renovarse el límite.
+
+## 2026-11-21 — Análisis de horarios y frecuencia; documentos actualizados
+- Se actualizó `docs/analisis-metricas-y-monetizacion.md` (nueva sección 6 con el resultado de la prueba de horarios y de 3 videos diarios, y sección 7 con las instrucciones del sistema de subida actual) y `docs/publicacion-automatica.md`. Ambas copias se subieron también al proyecto de Claude.
+- Resultado: la hora casi no cambia las vistas (10:00 ≈ 14:00 en YouTube); 3 videos al día no restan vistas a cada video (2 días de prueba); 45 s retiene más en proporción pero no da más vistas. Con Metricool gratis, 3 videos al día no son factibles (9 posts al día frente a 20 al mes por red); con Zernio y Zapier sí.
+- Anomalía: el video de las ruedas del tren (12/11) tiene 2 vistas en YouTube estando público.
+- Metricool no permite borrar posts desde el conector: borrarlos a mano en el planificador.
+- Zapier: los 3 videos de YouTube pendientes (básquetbol, Saturno, Luna se aleja) siguen bloqueados por límite de velocidad.
