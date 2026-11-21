@@ -80,3 +80,9 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 - Anomalía: el video de las ruedas del tren (12/11) tiene 2 vistas en YouTube estando público.
 - Metricool no permite borrar posts desde el conector: borrarlos a mano en el planificador.
 - Zapier: los 3 videos de YouTube pendientes (básquetbol, Saturno, Luna se aleja) siguen bloqueados por límite de velocidad.
+
+## 2026-11-21 — Decisiones del usuario: frecuencia, duración y temas
+- **2 videos diarios (14:00 y 18:00)** para no saturar los servicios; el tercer video de las 10:00 queda suspendido.
+- **Duración estándar ≈65 s**, con holgura de 45 s a 1:30 según el tema.
+- **Temas**: análisis de apoyo por video (vistas, me gusta por 1.000 vistas, compartidos, suscriptores) en `docs/analisis-metricas-y-monetizacion.md`, sección 6.6. Lo más fuerte: física del deporte y vehículos (F1, Roberto Carlos; el básquetbol es un caso aparte). Historia y videojuegos con historia (Tetris, Eiffel) convierten suscriptores. Lo más débil: fenómenos físicos genéricos y temas muy técnicos sin protagonista. 
+- Prueba natural: 4 de los 11 videos programados del 21 al 26/11 son de deporte; comparar el 28/11 contra el resto antes de subir la frecuencia de ese estilo.

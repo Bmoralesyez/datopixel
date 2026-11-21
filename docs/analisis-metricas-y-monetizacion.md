@@ -9,6 +9,7 @@ Objetivo del canal (dicho por el usuario): llegar a monetizar con el tiempo. Est
 1. **La subida ya no pasa por Metricool.** El plan gratis de Metricool permite 20 posts al mes por red y se agotó el 16/11 (se renueva el 1/12). Ahora se sube con Zapier (YouTube) y Zernio (TikTok e Instagram). **Instrucciones completas en la sección 7: la conversación que sube los videos debe seguirlas.** Metricool queda solo para leer métricas.
 2. **Resultado de la prueba de horarios y de 3 videos diarios (sección 6):** la prueba solo se pudo hacer 2 días (14 y 15/11) y los datos apuntan a que (a) la hora de publicación casi no cambia las vistas, (b) publicar 3 videos al día no restó vistas a cada video en YouTube y (c) los de 45 s retienen mejor en proporción, pero no consiguen más vistas. Son pocos datos.
 3. **Anomalía a revisar:** el video del tren (12/11, 10:06) tiene solo 2 vistas en YouTube según la API, estando público.
+4. **Decisiones del usuario (21/11):** (a) **2 videos diarios, a las 14:00 y 18:00**, para no saturar los servicios; el tercer video de las 10:00 queda suspendido. (b) **Duración estándar de ≈65 s**, con holgura: si el tema lo necesita se puede ir de 45 s a 1:30 (regla del usuario). Los de 45 s ya no son una prueba. (c) **Ajustar los temas según el apoyo de cada video** (sección 6.6) y producir más seguido el estilo que resulte claramente más fuerte.
 
 **Vigente desde el 14/11 (capturas de YouTube Studio del usuario, que considera a YouTube la red más relevante porque es la que más crece):**
 
@@ -118,7 +119,7 @@ Lo que sí afecta es la retención y el alcance:
 
 **Prueba aprobada por el usuario el 14/11:**
 - Un **tercer video diario de 45 s a las 10:00** (el mínimo de la regla de duración del usuario). Los videos de las 14:00 y las 18:00 se mantienen igual (≈65 s).
-- **Estado al 21/11: la prueba quedó cortada tras 2 videos de 45 s** (estrellas parpadean el 14/11 y microondas el 15/11), porque desde el 16/11 Metricool dejó de publicar. Resultado parcial en la sección 6.
+- **Estado al 21/11: la prueba quedó cortada tras 2 videos de 45 s** (estrellas parpadean el 14/11 y microondas el 15/11), porque desde el 16/11 Metricool dejó de publicar. Resultado parcial en la sección 6. **El 21/11 el usuario decidió volver al estándar de ≈65 s con holgura de 45 s a 1:30 según el tema, y suspender el tercer video diario.**
 - **Cómo evaluarla**: comparar los de 45 s con los videos de 65 s que salieron a las 10:00 (Roberto Carlos, Hielo, ruedas del tren, Atardecer) y con los de 14:00 y 18:00, mirando en YouTube las vistas y el "se quedaron para mirar", en Instagram el porcentaje que pasa los 3 s y el tiempo medio visto sobre la duración, y en TikTok las vistas y los compartidos.
 - **Ojo**: las 10:00 son una franja floja para la audiencia de YouTube, así que un resultado bajo no se debe atribuir solo a la duración.
 - Un video de 45 s no cumple el mínimo de más de 1 minuto de TikTok, pero eso no importa mientras TikTok esté lejos de los 10.000 seguidores.
@@ -126,7 +127,9 @@ Lo que sí afecta es la retención y el alcance:
 ## 4. Reglas para el desarrollo de los videos
 
 1. **Prioridad**: pensar primero en YouTube Shorts (feed y retención) y después en Instagram y TikTok.
-2. **Temas**: en YouTube vale cualquier tema de ciencia, historia o videojuegos si el gancho es fuerte; los videos de historia y videojuegos incluso convierten bien a suscriptores. Para Instagram y TikTok, priorizar física del deporte, objetos cotidianos por dentro y astronomía visual. No repetir el enfoque de Hielo, que fue el más débil en las tres redes.
+2. **Temas** (ajustado el 21/11, ver sección 6.6): priorizar la **física del deporte y los vehículos de alto rendimiento** (≈1 de cada 3 videos), mantener historia o videojuegos con una historia detrás (convierten suscriptores) y astronomía, y reducir los fenómenos físicos genéricos y los temas muy técnicos sin protagonista. Abrir con un caso concreto, una persona o un objeto reconocible. No repetir el enfoque de Hielo, que fue el más débil en las tres redes.
+2b. **Duración**: estándar de ≈65 s, con holgura de 45 s a 1:30 si el tema lo necesita.
+2c. **Frecuencia**: 2 videos al día, a las 14:00 y a las 18:00.
 3. **Gancho (primeros 3 s)**: abrir con la imagen o la pregunta más llamativa. Comparar la apertura de los mejores (Básquetbol, F1, Roberto Carlos, Luna, Jabón) con los peores (Viento, Atardecer, Hielo, Avión) y escribir una fórmula. Meta en Instagram: más del 65% pasa los 3 s y un tiempo medio visto sobre 13 s. Meta en YouTube: subir el 62,2% que se queda a mirar.
 4. **Ritmo**: eliminar tiempos muertos para que más gente llegue al final. En los de 45 s, el guion debe ser proporcionalmente más corto, sin acelerar la voz.
 5. **Lectura en TV**: más de un tercio de las horas se ve en TV. Texto en pantalla y subtítulos grandes y centrados.
@@ -139,7 +142,7 @@ Lo que sí afecta es la retención y el alcance:
 ## 5. Horarios de publicación (hora de Santiago)
 
 - **Vigente (aprobado el 14/11): 14:00 y 18:00 todos los días, con videos de ≈65 s.** El mismo video sale en las tres redes a la vez.
-- **Tercer video de 45 s a las 10:00**: prueba que quedó cortada (ver secciones 3 y 6). Hasta decidir con el usuario, **no programar videos a las 10:00**; la prueba se retoma o se descarta según la sección 6.
+- **Decisión del usuario del 21/11: solo 2 videos diarios (14:00 y 18:00).** El tercer video de las 10:00 queda suspendido: **no programar videos a las 10:00**.
 - Nunca dos videos en la misma hora.
 - **Por qué se cambió el horario principal de las 10:00 a las 14:00**: la audiencia de YouTube casi no está activa de 0:00 a 11:00; las 10:00 de Santiago son las 7:00 en México (25,6% de las vistas). Las 14:00 son las 11:00 en México, las 14:00 en Argentina y las 18:00 en España, y las 18:00 son las 15:00 en México y las 18:00 en Argentina. **Los datos del 21/11 (sección 6) no confirman que esto cambie las vistas.**
 - **Fines de semana**: en YouTube los sábados y domingos son de los días más activos desde el mediodía. Mantener los videos diarios también esos días.
@@ -198,10 +201,48 @@ El patinaje es un valor atípico (1.100 vistas con 47% de paso de 3 s). Sin él,
 ### 6.5 Conclusiones y recomendaciones
 
 1. **Mantener 14:00 y 18:00.** Es lo aprobado, no perjudica y encaja con la audiencia de México y Argentina; pero no esperar un cambio en las vistas por la hora.
-2. **Retomar 3 videos diarios es factible con el sistema de la sección 7** y, según los datos, suma vistas sin restárselas a los demás. Condiciones: (a) que el ritmo de creación de videos lo permita, (b) que el plan de Zapier lo soporte (7.7) y (c) vigilar que la calidad del gancho no baje al aumentar la cantidad. La franja del tercer video puede ser cualquiera: las 10:00 funcionó igual; **propuesta: 10:00, 14:00, 18:00 como se aprobó** o 12:00 si el usuario prefiere.
-3. **Decisión pendiente del usuario sobre los 45 s**: no se demostró ventaja en vistas. Sugerencia: seguir con ≈65 s como estándar y usar 45 s solo cuando el tema lo pida (regla del usuario: entre 45 s y 1:30 según el tema).
+2. **Frecuencia: el usuario decidió quedarse con 2 videos diarios (21/11)** para no saturar los servicios (Zapier, sobre todo, limita la velocidad de las subidas). Los datos indican que un tercer video diario sumaría vistas sin restarle a los demás (2 días de prueba), así que se puede retomar más adelante si los servicios y el ritmo de creación lo permiten.
+3. **Duración: estándar de ≈65 s, con holgura** (decidido por el usuario el 21/11). Si el tema lo pide se puede ir de 45 s a 1:30. No se demostró ventaja en vistas para los 45 s.
 4. **Mirar a fondo el video del tren** y revisar si hay algo anormal en YouTube Studio.
 5. **Volver a medir el 28/11**, cuando haya 7 días de datos de los videos del 21 al 26/11 programados en las tres redes, para comparar 14:00 y 18:00 con una muestra mayor y ya sin problemas de publicación.
+
+### 6.6 Temas con más apoyo (tres redes, 3 al 15/11 más Luna gigante)
+
+"Apoyo" = vistas, me gusta por cada 1.000 vistas, compartidos y suscriptores (YouTube Studio, solo los 13 primeros videos). Se excluyen de los promedios el tren (anomalía de YouTube) y Luna gigante (menos de 2 días en TikTok e Instagram). Muestras de 1 a 6 videos por tema: orientativo.
+
+| Tema | Videos | Vistas totales por video (3 redes) | Vistas YouTube por video | Me gusta por 1.000 vistas | Suscriptores |
+|---|---|---|---|---|---|
+| **Física del deporte** (básquetbol, F1, Roberto Carlos) | 3 | 6.846 (2 sin básquetbol: 3.470) | 4.862 (sin básquetbol: 1.640) | 25,6 | 14 (sin básquetbol: 2) |
+| Objetos cotidianos / ingeniería (ventanilla, jabón, microondas, Tacoma) | 4 | 2.257 | 1.231 | 23,6 | 4 |
+| Videojuegos (PS1, Tetris, Pac-Man) | 3 | 2.034 | 1.221 | 26,2 | 8 |
+| Historia (Eiffel) | 1 | 1.990 | 1.212 | 34,2 | 4 |
+| Astronomía (Luna, estaciones, estrellas, cielo azul) | 4 | 2.090 | 1.006 | 25,8 | 5 |
+| Fenómenos físicos varios (hielo, arcoíris, Doppler, gatos, patinaje, avión) | 6 | 1.618 | 852 | 22,6 | 1 |
+
+**Videos con más apoyo individual** (vistas totales / me gusta por 1.000 vistas):
+- **Básquetbol antiguo**: 13.598 vistas y 12 suscriptores. Un caso aparte (único de 36 s, primero del canal, fue el empujón inicial).
+- **F1 boca abajo**: 3.492 vistas y el **mejor apoyo en general** (40,7 me gusta por 1.000 vistas; 56 me gusta en Instagram, el máximo; 1.282 vistas en Instagram, 776 en TikTok, 76% de retención a 3 s en IG).
+- **Roberto Carlos / Magnus**: 3.448 vistas, **el mejor de YouTube sin contar el básquetbol** (1.845) y el que más compartidos tiene en Instagram (3), con 72% pasando los 3 s.
+- **Luna (por qué vemos la misma cara)**: 2.884 vistas, 4 suscriptores, retención de 20,7 s en Instagram.
+- **Tetris y Eiffel**: ≈2.000 vistas cada uno, **34 me gusta por 1.000 vistas y 4 suscriptores cada uno** (los que mejor convierten junto a la Luna).
+- **Jabón por dentro**: 3.167 vistas (1.237 en Instagram; 70% pasa 3 s, 19 s de retención).
+- **Compartidos**: casi nulos en todo. Atardecer en TikTok (13), Roberto Carlos en Instagram (3) y patinaje en TikTok (3).
+
+**Los más flojos**: Tacoma (12 me gusta por 1.000 vistas), Pac-Man (17), cómo vuela un avión (19), gatos (20) y hielo (el más débil en las tres redes).
+
+**Lecturas:**
+1. **Ningún tema es "notoriamente más fuerte"** salvo la **física del deporte** (y vehículos de alto rendimiento): F1 y Roberto Carlos son los dos mejores en las tres redes cuando se deja de lado el básquetbol, que ya es un caso aparte. Con solo 3 videos puede ser azar, pero coincide con la conclusión del 13/11.
+2. **Historia y videojuegos con una historia detrás (Tetris, Eiffel)** no dan más vistas, pero **sí más apoyo por vista y más suscriptores**. Son los que convierten.
+3. **Los fenómenos físicos "genéricos"** (hielo, arcoíris, Doppler, gatos, avión) son el grupo más débil: menos vistas (852 por video en YouTube) y un solo suscriptor en 6 videos.
+4. **Las explicaciones muy técnicas** (Tacoma, avión) apoyan menos que las que tienen una escena o un protagonista (F1, Roberto Carlos, Tetris, Eiffel). Hipótesis a probar: gana el gancho con un caso concreto, una persona o un objeto reconocible.
+
+**Qué hacer con los temas (propuesta a aprobar):**
+- **Subir la frecuencia de física del deporte y vehículos a ≈1 de cada 3 videos** (≈4 a 5 por semana con 2 al día), sin bajar la variedad. **Prueba natural en curso:** de los 11 videos ya programados del 21 al 26/11, cuatro son de deporte (golf, balón sin giro, pelota de tenis, básquetbol con efecto) y dos son partes 2 de los mejores (balón = Roberto Carlos, básquetbol). **Si el 28/11 esos videos superan a los demás en YouTube, confirmar la prioridad; si no, era azar o efecto de la novedad.**
+- **Mantener 2 a 3 videos por semana de historia o videojuegos con una historia detrás** (estilo Tetris y Eiffel) para convertir suscriptores, aunque no sumen más vistas.
+- **Mantener 2 a 3 por semana de astronomía** (la Luna convierte bien, y las partes 2 ya están programadas).
+- **Reducir los fenómenos físicos genéricos** y los temas muy técnicos sin protagonista; si se hacen, abrir con un caso concreto o una persona.
+- **Partes 2 de los fuertes** (Roberto Carlos, F1, Tetris, Luna, básquetbol): siguen la regla de una parte 2 por semana (sección 4.7).
+- Ideas de estilo "deporte / alto rendimiento" (a validar): ciclismo contra el viento, el salto del esquí, el lanzamiento de jabalina, la física de la natación, el curveo de un cohete o el saque de voleibol, el Fosbury Flop en salto alto, la vuelta rápida en F1, por qué un nadador usa traje, el efecto Magnus en el béisbol.
 
 ## 7. Sistema de subida actual (desde el 20/11): instrucciones para la conversación que sube los videos
 
