@@ -86,3 +86,11 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 - **Duración estándar ≈65 s**, con holgura de 45 s a 1:30 según el tema.
 - **Temas**: análisis de apoyo por video (vistas, me gusta por 1.000 vistas, compartidos, suscriptores) en `docs/analisis-metricas-y-monetizacion.md`, sección 6.6. Lo más fuerte: física del deporte y vehículos (F1, Roberto Carlos; el básquetbol es un caso aparte). Historia y videojuegos con historia (Tetris, Eiffel) convierten suscriptores. Lo más débil: fenómenos físicos genéricos y temas muy técnicos sin protagonista. 
 - Prueba natural: 4 de los 11 videos programados del 21 al 26/11 son de deporte; comparar el 28/11 contra el resto antes de subir la frecuencia de ese estilo.
+
+## 2026-11-21 — Registro de publicación por video y marca "SUBIDO"
+- Cada carpeta de video tiene `publicacion.md` (estado por red, hora, herramienta, ID, primer comentario). Script `scripts/publicacion.py`: `indice` genera `docs/estado-publicacion.md`; `marcar --aplicar` agrega el prefijo "SUBIDO - " a las carpetas publicadas en las 3 redes.
+- Se marcaron 19 carpetas (publicadas en las 3), 11 quedan programadas y `Luna cara oculta` sin subir (excluida).
+- No se renombra antes de publicar: los posts programados (Zernio, Zapier) leen el video por URL raw de GitHub y se romperían.
+- Las URLs raw de las carpetas renombradas cambian a `.../DatoPixel/SUBIDO%20-%20<tema>.../video.mp4`.
+- Péndulo de Foucault salió a las 14:00 en las 3 redes: confirmado (YouTube público con 108 vistas, TikTok e Instagram `published`). Sigue pendiente su primer comentario en Instagram.
+- Zapier sigue devolviendo "throttled" para subir los 3 videos de YouTube pendientes (básquetbol, Saturno, Luna se aleja) incluso 14 horas después; la hipótesis del cupo diario no se confirmó.

@@ -315,6 +315,18 @@ Zapier y Zernio leen el video y la portada desde la URL pública del repo (rama 
 - **Sin primer comentario** en YouTube y TikTok.
 - **Secretos**: nunca poner claves o tokens en el repo o en el chat; los conectores usan OAuth.
 
+### 7.8 Registro de publicación por video (obligatorio)
+
+Cada carpeta de video lleva un archivo **`publicacion.md`** con una tabla (YouTube, TikTok, Instagram): estado, fecha y hora (Santiago), herramienta, ID o enlace y estado del primer comentario. Estados válidos: `pendiente`, `programado`, `publicado`.
+
+1. **Al crear el video**: agregar `publicacion.md` con las 3 redes en `pendiente` (copiar el formato de cualquier carpeta existente).
+2. **Al programar**: pasar cada red a `programado` con la hora y el ID del post (ID del video en YouTube, ID de Zernio en TikTok e Instagram).
+3. **Cuando salga**: verificar que sea público y pasar la red a `publicado` (`posts_list` en Zernio; estado público en YouTube). Anotar también el primer comentario de Instagram cuando se publique.
+4. **Cuando las 3 estén en `publicado`**: ejecutar `python3 scripts/publicacion.py marcar --aplicar`, que agrega el prefijo **"SUBIDO - "** al nombre de la carpeta (por ejemplo `SUBIDO - Tetris - 09-11-2026`). **No renombrar antes**: los posts programados leen el video por la URL raw de GitHub y se romperían.
+5. Regenerar el resumen con `python3 scripts/publicacion.py indice` (escribe `docs/estado-publicacion.md`) y hacer commit.
+
+Al 21/11: 19 carpetas marcadas como "SUBIDO" (las ya publicadas en las 3 redes), 11 programadas (3 de ellas con YouTube pendiente) y 1 sin subir (`Luna cara oculta`, excluida a propósito).
+
 ## 8. Próxima revisión
 
 Revisar el 28/11: vistas por franja (14:00 y 18:00) de los videos del 21 al 26/11 en las tres redes, anomalía del video del tren, si "parte 2" y "Mándaselo a..." siguen generando compartidos, retención de TikTok (hoy vacía en Metricool), el estado de la prueba gratis de Zapier (fin 4/12), y si se retoma el tercer video diario (y a qué hora) o la prueba de 45 s.
