@@ -52,3 +52,24 @@ El usuario no quiere crear un proyecto en Google Cloud. Windsor.ai (conectores g
 - Instagram (Zernio, cuenta datopixel3d): post `6b00d20e9956cdf1a3d3e3c7`, estado `scheduled` 17:00Z.
 - Nota: `posts_create` solo acepta minutos relativos y quedó a 16:59Z; se corrigió con `posts_update(scheduled_for)`.
 - Pendiente: verificar que las 3 salgan a la hora; primer comentario en YouTube/TikTok/Instagram (Zernio no puede crear comentario propio).
+
+## 2026-11-21 — Videos pendientes (Metricool no los publicó): programados en las 3 redes
+Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban publicados. Se programan 2 al día (14:00 y 18:00 Santiago) desde el 21/11. "Luna cara oculta" se excluye: mismo título/tema que el video "Luna" ya publicado (10/11), pendiente de decisión del usuario.
+
+| Video | Hora (Santiago) | YouTube (Zapier) | TikTok (Zernio) | Instagram (Zernio) |
+|---|---|---|---|---|
+| Space Invaders | 21/11 18:00 | nS5s4VbZGrA | 6b00d32a420d378124ff0852 | 6b00d32bea46b2536f2f1d0b |
+| Golf hoyuelos | 22/11 14:00 | rKJeDtHDec8 | 6b00d32e77e9ba45a67c249a | 6b00d32f420d378124ff0868 |
+| GPS y relatividad | 22/11 18:00 | cCW8DTeh5AY | 6b00d33077e9ba45a67c24ab | 6b00d33277e9ba45a67c24b3 |
+| Balón sin giro | 23/11 14:00 | oKis1tuSziA | 6b00d334420d378124ff0883 | 6b00d33594b71f24ba805c1d |
+| Bumerán | 23/11 18:00 | s7gbom5CEec | 6b00d33cea46b2536f2f1d3c | 6b00d33eea46b2536f2f1d51 |
+| Estrella fugaz | 24/11 14:00 | qDYsk2Zecd0 | 6b00d34077e9ba45a67c250b | 6b00d341ea46b2536f2f1d59 |
+| Moneda girando | 24/11 18:00 | onvF8Iu8Xiw | 6b00d34377e9ba45a67c2522 | 6b00d34494b71f24ba805c82 |
+| Pelota de tenis | 25/11 14:00 | hdxfjyyDkc0 | 6b00d34a94b71f24ba805cb8 | 6b00d34cea46b2536f2f1d95 |
+| Básquetbol efecto | 25/11 18:00 | PENDIENTE | 6b00d34eea46b2536f2f1da6 | 6b00d34f77e9ba45a67c2534 |
+| Anillos de Saturno | 26/11 14:00 | PENDIENTE | 6b00d35130d622eb4762c08b | 6b00d353ea46b2536f2f1dc3 |
+| Luna se aleja | 26/11 18:00 | PENDIENTE | 6b00d354ea46b2536f2f1dd2 | 6b00d35630d622eb4762c09c |
+
+- Zapier limita las subidas a YouTube en paralelo ("throttled"): hay que subir de a una, con pausa. Tras 8 subidas seguidas volvió a devolver throttled de forma sostenida; quedan 3 por subir.
+- Los posts de Zernio quedan a la hora exacta con `posts_update(scheduled_for)` tras crearlos con `schedule_minutes`.
+- Los posts de Metricool de esas fechas seguirán en su cola y fallarán: conviene borrarlos desde Metricool antes del 1/12 para que no se dupliquen al renovarse el límite.
