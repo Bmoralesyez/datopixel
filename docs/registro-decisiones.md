@@ -94,3 +94,7 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 - Las URLs raw de las carpetas renombradas cambian a `.../DatoPixel/SUBIDO%20-%20<tema>.../video.mp4`.
 - Péndulo de Foucault salió a las 14:00 en las 3 redes: confirmado (YouTube público con 108 vistas, TikTok e Instagram `published`). Sigue pendiente su primer comentario en Instagram.
 - Zapier sigue devolviendo "throttled" para subir los 3 videos de YouTube pendientes (básquetbol, Saturno, Luna se aleja) incluso 14 horas después; la hipótesis del cupo diario no se confirmó.
+
+## 2026-11-21 — Primer comentario de Instagram del péndulo de Foucault
+- Se obtuvo el `media_id` (18189638011369937) con Windsor `get_data` (conector `instagram`, campos `media_id`, `media_caption`, `media_permalink`, `timestamp`) y se publicó con `create_comment` el texto "¿Qué otra prueba te gustaría ver? 👇" (comentario 18140526271632509).
+- `publicacion.md` del video actualizado. El flujo queda documentado en la sección 7.4 de `docs/analisis-metricas-y-monetizacion.md`.

@@ -1,4 +1,4 @@
-# DatoPixel: análisis de métricas y camino a la monetización (actualizado el 21/11/2026)
+# DatoPixel: análisis de métricas y camino a la monetización (actualizado el 21/11/2026, 16:30)
 
 Objetivo del canal (dicho por el usuario): llegar a monetizar con el tiempo. Este documento resume el análisis de métricas (Metricool y capturas de YouTube Studio), las reglas que debe aplicar el desarrollo de los videos y, desde el 21/11, **cómo se suben los videos con el sistema nuevo (sección 7)**. Versiones anteriores: 10/11, 13/11 y 14/11.
 
@@ -278,11 +278,13 @@ Zapier y Zernio leen el video y la portada desde la URL pública del repo (rama 
 
 **Primer comentario de Instagram.** Una vez publicado el Reel, con Windsor.ai for Social Media (`execute_action`, conector `instagram`, cuenta `17841437152654574`, acción `create_comment` con `media_id` y `message`). Hay que esperar a que el Reel esté público para conocer su `media_id`. YouTube y TikTok quedan sin comentario automático por ahora.
 
+**Cómo conseguir el `media_id` para comentar.** Con Windsor.ai for Social Media: `get_fields` y `get_data` del conector `instagram` con los campos `media_id`, `media_caption`, `media_permalink` y `timestamp` (rango de fechas de hoy y ayer; no usar `force_refresh`, el plan de prueba no lo permite). Se identifica el Reel por el texto de la descripción y luego se ejecuta `create_comment` con ese `media_id` y la cuenta `17841437152654574`. Probado el 21/11 con el péndulo de Foucault (el Reel apareció en la lectura unos minutos después de publicarse).
+
 ### 7.5 Estado del calendario al 21/11 (hora de Santiago)
 
 | Video | Salida | YouTube | TikTok / Instagram |
 |---|---|---|---|
-| Péndulo de Foucault | 21/11 14:00 | programado | programado |
+| Péndulo de Foucault | 21/11 14:00 | **publicado** | **publicado** (+ comentario en Instagram) |
 | Space Invaders | 21/11 18:00 | programado | programado |
 | Golf (hoyuelos) | 22/11 14:00 | programado | programado |
 | GPS y relatividad | 22/11 18:00 | programado | programado |
@@ -325,7 +327,7 @@ Cada carpeta de video lleva un archivo **`publicacion.md`** con una tabla (YouTu
 4. **Cuando las 3 estén en `publicado`**: ejecutar `python3 scripts/publicacion.py marcar --aplicar`, que agrega el prefijo **"SUBIDO - "** al nombre de la carpeta (por ejemplo `SUBIDO - Tetris - 09-11-2026`). **No renombrar antes**: los posts programados leen el video por la URL raw de GitHub y se romperían.
 5. Regenerar el resumen con `python3 scripts/publicacion.py indice` (escribe `docs/estado-publicacion.md`) y hacer commit.
 
-Al 21/11: 19 carpetas marcadas como "SUBIDO" (las ya publicadas en las 3 redes), 11 programadas (3 de ellas con YouTube pendiente) y 1 sin subir (`Luna cara oculta`, excluida a propósito).
+Al 21/11: 19 carpetas marcadas como "SUBIDO" (las ya publicadas en las 3 redes, incluido el péndulo de Foucault), 10 programadas (3 de ellas con YouTube pendiente) y 1 sin subir (`Luna cara oculta`, excluida a propósito).
 
 ## 8. Próxima revisión
 
