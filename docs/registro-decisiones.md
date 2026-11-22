@@ -100,3 +100,4 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 - `publicacion.md` del video actualizado. El flujo queda documentado en la sección 7.4 de `docs/analisis-metricas-y-monetizacion.md`.
 
 | Salto Fosbury | 27/11 14:00 | QR_6aUSfzK0 | 6b0257a74a5e4a06b9f0693a | 6b0257a8108af21c273c0866 |
+| Eclipse 1919 Einstein | 27/11 18:00 | VzzHBFC_1OY | 6b02652b4a306be548224c91 | 6b02652ca53c54e9edd243b7 |
