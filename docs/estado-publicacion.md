@@ -4,11 +4,11 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 
 | Video | Estado | YouTube | TikTok | Instagram | Salida (Santiago) |
 |---|---|---|---|---|---|
-| Anillos de Saturno - 15-11-2026 | incompleto | pendiente | programado | programado | 26/11/2026 14:00 |
+| Anillos de Saturno - 15-11-2026 | programado | programado | programado | programado | 26/11/2026 14:00 |
 | SUBIDO - Arcoiris - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 14/11/2026 18:03 |
 | Balon sin giro zigzag - 15-11-2026 | programado | programado | programado | programado | 23/11/2026 14:00 |
 | SUBIDO - Barco de acero flota - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 20/11/2026 14:00 |
-| Basquetbol efecto tiro libre - 15-11-2026 | incompleto | pendiente | programado | programado | 25/11/2026 18:00 |
+| Basquetbol efecto tiro libre - 15-11-2026 | programado | programado | programado | programado | 25/11/2026 18:00 |
 | Bumeran - 15-11-2026 | programado | programado | programado | programado | 23/11/2026 18:00 |
 | SUBIDO - Cielo azul - 12-11-2026 | publicado en las 3 | publicado | publicado | publicado | 13/11/2026 10:04 |
 | SUBIDO - Como vuelan los aviones - 12-11-2026 | publicado en las 3 | publicado | publicado | publicado | 13/11/2026 18:04 |
@@ -24,7 +24,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | SUBIDO - Luna - 10-11-2026 | publicado en las 3 | publicado | publicado | publicado | 10/11/2026 21:04 |
 | Luna cara oculta - 15-11-2026 | incompleto | pendiente | pendiente | pendiente |  |
 | SUBIDO - Luna gigante horizonte - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 19/11/2026 21:11 |
-| Luna se aleja - 15-11-2026 | incompleto | pendiente | programado | programado | 26/11/2026 18:00 |
+| Luna se aleja - 15-11-2026 | programado | programado | programado | programado | 26/11/2026 18:00 |
 | SUBIDO - Microondas - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 15/11/2026 10:04 |
 | Moneda girando - 15-11-2026 | programado | programado | programado | programado | 24/11/2026 18:00 |
 | SUBIDO - Pac-Man - 09-11-2026 | publicado en las 3 | publicado | publicado | publicado | 09/11/2026 23:03 |

@@ -66,9 +66,9 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 | Estrella fugaz | 24/11 14:00 | qDYsk2Zecd0 | 6b00d34077e9ba45a67c250b | 6b00d341ea46b2536f2f1d59 |
 | Moneda girando | 24/11 18:00 | onvF8Iu8Xiw | 6b00d34377e9ba45a67c2522 | 6b00d34494b71f24ba805c82 |
 | Pelota de tenis | 25/11 14:00 | hdxfjyyDkc0 | 6b00d34a94b71f24ba805cb8 | 6b00d34cea46b2536f2f1d95 |
-| Básquetbol efecto | 25/11 18:00 | PENDIENTE | 6b00d34eea46b2536f2f1da6 | 6b00d34f77e9ba45a67c2534 |
-| Anillos de Saturno | 26/11 14:00 | PENDIENTE | 6b00d35130d622eb4762c08b | 6b00d353ea46b2536f2f1dc3 |
-| Luna se aleja | 26/11 18:00 | PENDIENTE | 6b00d354ea46b2536f2f1dd2 | 6b00d35630d622eb4762c09c |
+| Básquetbol efecto | 25/11 18:00 | gUXANrbuKxY | 6b00d34eea46b2536f2f1da6 | 6b00d34f77e9ba45a67c2534 |
+| Anillos de Saturno | 26/11 14:00 | pZVqK5Y-8P4 | 6b00d35130d622eb4762c08b | 6b00d353ea46b2536f2f1dc3 |
+| Luna se aleja | 26/11 18:00 | M8AT94MsZSY | 6b00d354ea46b2536f2f1dd2 | 6b00d35630d622eb4762c09c |
 
 - Zapier limita las subidas a YouTube en paralelo ("throttled"): hay que subir de a una, con pausa. Tras 8 subidas seguidas volvió a devolver throttled de forma sostenida; quedan 3 por subir.
 - Los posts de Zernio quedan a la hora exacta con `posts_update(scheduled_for)` tras crearlos con `schedule_minutes`.
@@ -101,3 +101,6 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 
 | Salto Fosbury | 27/11 14:00 | QR_6aUSfzK0 | 6b0257a74a5e4a06b9f0693a | 6b0257a8108af21c273c0866 |
 | Eclipse 1919 Einstein | 27/11 18:00 | VzzHBFC_1OY | 6b02652b4a306be548224c91 | 6b02652ca53c54e9edd243b7 |
+
+## 2026-11-22 — Subida de los 3 últimos videos a YouTube
+Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8AT94MsZSY) quedaron programados con Zapier, subiendo de a uno (funcionó sin bloqueo). Con esto, los 13 videos programados (11 + Fosbury + Eclipse 1919) están en las 3 redes. Primera franja libre: 28/11 14:00.

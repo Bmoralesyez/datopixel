@@ -147,7 +147,7 @@ Lo que sí afecta es la retención y el alcance:
 - **Por qué se cambió el horario principal de las 10:00 a las 14:00**: la audiencia de YouTube casi no está activa de 0:00 a 11:00; las 10:00 de Santiago son las 7:00 en México (25,6% de las vistas). Las 14:00 son las 11:00 en México, las 14:00 en Argentina y las 18:00 en España, y las 18:00 son las 15:00 en México y las 18:00 en Argentina. **Los datos del 21/11 (sección 6) no confirman que esto cambie las vistas.**
 - **Fines de semana**: en YouTube los sábados y domingos son de los días más activos desde el mediodía. Mantener los videos diarios también esos días.
 - Las curvas de Metricool (mejores franjas 10:00 y 16:00 a 18:00) parecen genéricas y los datos propios tampoco las confirman.
-- **Calendario al 21/11**: todo lo programado sale a las 14:00 y 18:00 (detalle en la sección 7.5). **Primera franja libre: viernes 27/11 a las 14:00.**
+- **Calendario al 21/11**: todo lo programado sale a las 14:00 y 18:00 (detalle en la sección 7.5). **Primera franja libre: sábado 28/11 a las 14:00.**
 - Dos Shorts (Luna y Atardecer) aparecieron en Metricool con la advertencia "no se pudo subir la miniatura de YouTube". Ambos quedaron publicados.
 
 ## 6. Resultado de la prueba de horarios y de 3 videos diarios (21/11)
@@ -293,12 +293,14 @@ Zapier y Zernio leen el video y la portada desde la URL pública del repo (rama 
 | Estrella fugaz | 24/11 14:00 | programado | programado |
 | Moneda girando | 24/11 18:00 | programado | programado |
 | Pelota de tenis | 25/11 14:00 | programado | programado |
-| Básquetbol efecto | 25/11 18:00 | **falta subir** | programado |
-| Anillos de Saturno | 26/11 14:00 | **falta subir** | programado |
-| Luna se aleja | 26/11 18:00 | **falta subir** | programado |
+| Básquetbol efecto | 25/11 18:00 | programado (gUXANrbuKxY) | programado |
+| Anillos de Saturno | 26/11 14:00 | programado (pZVqK5Y-8P4) | programado |
+| Luna se aleja | 26/11 18:00 | programado (M8AT94MsZSY) | programado |
+| Salto Fosbury | 27/11 14:00 | programado (QR_6aUSfzK0) | programado |
+| Eclipse 1919 | 27/11 18:00 | programado (VzzHBFC_1OY) | programado |
 
-- **Primera franja libre: viernes 27/11 a las 14:00.**
-- Los 3 videos que faltan en YouTube se suben con Zapier cuando se levante el límite de velocidad (la fecha más cercana es el 25/11 a las 18:00).
+- **Primera franja libre: sábado 28/11 a las 14:00.**
+- Los 3 videos que faltaban en YouTube se subieron el 22/11 (de a uno, sin bloqueo). Calendario al 22/11 12:40.
 - **Excluido a propósito**: la carpeta `Luna cara oculta - 15-11-2026` tiene el mismo título y tema que el video "Luna" ya publicado el 10/11 (el archivo es distinto). **Pendiente de decisión del usuario**: publicarlo o reemplazar el tema.
 - Los IDs de cada post de Zernio y de YouTube están en `docs/registro-decisiones.md`.
 - **Metricool**: sus posts de esas fechas siguen en la cola y fallarán. Hay que borrarlos desde el planificador de Metricool (el conector no permite borrar), para que no se dupliquen cuando se renueve el límite el 1/12.

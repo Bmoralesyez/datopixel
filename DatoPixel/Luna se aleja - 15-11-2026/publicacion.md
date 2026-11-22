@@ -4,6 +4,6 @@ Estados válidos: `pendiente`, `programado`, `publicado`. Cuando las 3 redes est
 
 | Plataforma | Estado | Fecha y hora (Santiago) | Herramienta | ID o enlace | Primer comentario |
 |---|---|---|---|---|---|
-| YouTube | pendiente | 26/11/2026 18:00 | Zapier (bloqueado por límite de velocidad) | falta subir | sin resolver |
+| YouTube | programado | 26/11/2026 18:00 | Zapier | M8AT94MsZSY | sin resolver |
 | TikTok | programado | 26/11/2026 18:00 | Zernio | 6b00d354ea46b2536f2f1dd2 | no se puede |
 | Instagram | programado | 26/11/2026 18:00 | Zernio | 6b00d35630d622eb4762c09c | pendiente (Windsor `create_comment` al publicarse) |
