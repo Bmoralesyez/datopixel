@@ -104,4 +104,5 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 
 ## 2026-11-22 — Subida de los 3 últimos videos a YouTube
 Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8AT94MsZSY) quedaron programados con Zapier, subiendo de a uno (funcionó sin bloqueo). Con esto, los 13 videos programados (11 + Fosbury + Eclipse 1919) están en las 3 redes. Primera franja libre: 28/11 14:00.
-| Frenada F1 | 28/11 14:00 | PENDIENTE (Zapier throttled 22/11) | 6b03750e38ddb111c21fc3b9 | 6b03750f38ddb111c21fc3c2 |
+| Frenada F1 | 28/11 14:00 | XftOs6f8jTY (subido 22/11 tras throttled) | 6b03750e38ddb111c21fc3b9 | 6b03750f38ddb111c21fc3c2 |
+| Apolo 13 filtro CO2 | 28/11 18:00 | pzX4ZTOqL48 | 6b037c025bf2792c87aa7e23 | 6b037c048227da371868f4a8 |
