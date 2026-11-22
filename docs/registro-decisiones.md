@@ -98,3 +98,5 @@ Se cruzó la lista de Metricool con el canal de YouTube: 12 videos no estaban pu
 ## 2026-11-21 — Primer comentario de Instagram del péndulo de Foucault
 - Se obtuvo el `media_id` (18189638011369937) con Windsor `get_data` (conector `instagram`, campos `media_id`, `media_caption`, `media_permalink`, `timestamp`) y se publicó con `create_comment` el texto "¿Qué otra prueba te gustaría ver? 👇" (comentario 18140526271632509).
 - `publicacion.md` del video actualizado. El flujo queda documentado en la sección 7.4 de `docs/analisis-metricas-y-monetizacion.md`.
+
+| Salto Fosbury | 27/11 14:00 | QR_6aUSfzK0 | 6b0257a74a5e4a06b9f0693a | 6b0257a8108af21c273c0866 |
