@@ -18,6 +18,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | SUBIDO - Estaciones - 10-11-2026 | publicado en las 3 | publicado | publicado | publicado | 11/11/2026 18:01 |
 | Estrella fugaz - 15-11-2026 | programado | programado | programado | programado | 24/11/2026 14:00 |
 | SUBIDO - Estrellas parpadean - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 14/11/2026 10:05 |
+| Frenada F1 - 22-11-2026 | incompleto | pendiente | pendiente | pendiente | 28/11/2026 14:00 |
 | GPS y relatividad - 13-11-2026 | programado | programado | programado | programado | 22/11/2026 18:00 |
 | SUBIDO - Gatos caen de pie - 12-11-2026 | publicado en las 3 | publicado | publicado | publicado | 15/11/2026 14:08 |
 | SUBIDO - Hielo - 09-11-2026 | publicado en las 3 | publicado | publicado | publicado | 11/11/2026 10:04 |
