@@ -7,6 +7,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | Anillos de Saturno - 15-11-2026 | programado | programado | programado | programado | 26/11/2026 14:00 |
 | Apolo 13 filtro CO2 - 22-11-2026 | incompleto | pendiente | pendiente | pendiente | 28/11/2026 18:00 |
 | SUBIDO - Arcoiris - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 14/11/2026 18:03 |
+| Atari cartuchos enterrados - 24-11-2026 | incompleto | pendiente | pendiente | pendiente | 30/11/2026 14:00 |
 | Balon sin giro zigzag - 15-11-2026 | programado | programado | programado | programado | 23/11/2026 14:00 |
 | SUBIDO - Barco de acero flota - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 20/11/2026 14:00 |
 | Basquetbol efecto tiro libre - 15-11-2026 | programado | programado | programado | programado | 25/11/2026 18:00 |

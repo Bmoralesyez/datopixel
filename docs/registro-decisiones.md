@@ -112,3 +112,4 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 ## 2026-11-24 — Luna cara oculta descartada y primeros comentarios de Instagram
 - El usuario decidió que "Luna cara oculta - 15-11-2026" no se publica (mismo tema que la Luna del 10/11). La carpeta queda sin subir.
 - Primeros comentarios publicados con Windsor `create_comment` en los Reels ya públicos: Space Invaders (17901807567394672), Golf (17961501885017511), GPS (18081149900481110), Balón sin giro (17980195734176691), Bumerán (17969080967982426). Los de los demás Reels se publican cuando cada uno salga.
+| Atari cartuchos enterrados | 30/11 14:00 | gjaagec1tFk | 6b05b4afe73f9b60c4a20d3f | 6b05b4b25601072366bf05ff |
