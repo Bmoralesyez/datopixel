@@ -107,3 +107,4 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 | Frenada F1 | 28/11 14:00 | XftOs6f8jTY (subido 22/11 tras throttled) | 6b03750e38ddb111c21fc3b9 | 6b03750f38ddb111c21fc3c2 |
 | Apolo 13 filtro CO2 | 28/11 18:00 | pzX4ZTOqL48 | 6b037c025bf2792c87aa7e23 | 6b037c048227da371868f4a8 |
 | Eratóstenes midió la Tierra | 29/11 14:00 | QvRDexnuPA0 | 6b04f818f187cbf25e9bb882 | 6b04f819f187cbf25e9bb88f |
+| Salto de esquí V | 29/11 18:00 | Q4HeBwzHZ2E | 6b04fd777a183da92f578ef7 | 6b04fd7879983984b59de4f8 |
