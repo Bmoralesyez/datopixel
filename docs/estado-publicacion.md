@@ -16,6 +16,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | Eclipse 1919 Einstein - 22-11-2026 | incompleto | pendiente | pendiente | pendiente | 27/11/2026 18:00 |
 | SUBIDO - Efecto Doppler - 12-11-2026 | publicado en las 3 | publicado | publicado | publicado | 14/11/2026 14:09 |
 | SUBIDO - Efecto Magnus - 11-11-2026 | publicado en las 3 | publicado | publicado | publicado | 11/11/2026 10:04 |
+| Eratostenes midio la Tierra - 23-11-2026 | incompleto | pendiente | pendiente | pendiente | 29/11/2026 14:00 |
 | SUBIDO - Estaciones - 10-11-2026 | publicado en las 3 | publicado | publicado | publicado | 11/11/2026 18:01 |
 | Estrella fugaz - 15-11-2026 | programado | programado | programado | programado | 24/11/2026 14:00 |
 | SUBIDO - Estrellas parpadean - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 14/11/2026 10:05 |
