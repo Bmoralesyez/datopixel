@@ -108,3 +108,7 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 | Apolo 13 filtro CO2 | 28/11 18:00 | pzX4ZTOqL48 | 6b037c025bf2792c87aa7e23 | 6b037c048227da371868f4a8 |
 | Eratóstenes midió la Tierra | 29/11 14:00 | QvRDexnuPA0 | 6b04f818f187cbf25e9bb882 | 6b04f819f187cbf25e9bb88f |
 | Salto de esquí V | 29/11 18:00 | Q4HeBwzHZ2E | 6b04fd777a183da92f578ef7 | 6b04fd7879983984b59de4f8 |
+
+## 2026-11-24 — Luna cara oculta descartada y primeros comentarios de Instagram
+- El usuario decidió que "Luna cara oculta - 15-11-2026" no se publica (mismo tema que la Luna del 10/11). La carpeta queda sin subir.
+- Primeros comentarios publicados con Windsor `create_comment` en los Reels ya públicos: Space Invaders (17901807567394672), Golf (17961501885017511), GPS (18081149900481110), Balón sin giro (17980195734176691), Bumerán (17969080967982426). Los de los demás Reels se publican cuando cada uno salga.

@@ -8,4 +8,4 @@ Estados válidos: `pendiente`, `programado`, `publicado`. Cuando las 3 redes est
 | TikTok | pendiente |  |  |  |  |
 | Instagram | pendiente |  |  |  |  |
 
-Nota: excluido a propósito: mismo título y tema que la Luna publicada el 10/11. Pendiente de decisión del usuario.
+Nota: excluido a propósito: mismo título y tema que la Luna publicada el 10/11. DECIDIDO (24/11/2026): el usuario indicó que NO se publica. Se deja la carpeta sin subir.
