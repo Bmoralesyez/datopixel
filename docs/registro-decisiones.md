@@ -117,3 +117,5 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 | Semmelweis lavado de manos | 01/12 14:00 | PENDIENTE (Zapier 429, reintentar) | 6b064b0918dbb4068e6dbdc9 | 6b064b0a26ee4661c7fe6f6e |
 - 24/11 23:30–23:50: Zapier/YouTube respondió 429 (demasiadas solicitudes) en 4 intentos espaciados; quedan SIN subir a YouTube: Pale Blue Dot (30/11 18:00) y Semmelweis (01/12 14:00). TikTok e Instagram de ambos ya están programados. Reintentar YouTube (uno a la vez) con los títulos/descripciones de cada publicacion.md.
 - Comentarios IG publicados 24/11: Moneda (18143640814646177), Estrella fugaz (18105296801643338).
+| Microondas parte 2 uvas plasma | 01/12 18:00 | PENDIENTE (Zapier throttled, reintentar) | 6b06567176a195fc16397b6c | 6b065672d24e6d7fe034da1b |
+- 25/11 00:30–01:20: Zapier/YouTube sigue limitado (429 / throttled). Pendientes en YouTube: Pale Blue Dot (30/11 18:00), Semmelweis (01/12 14:00), Microondas parte 2 (01/12 18:00). Posible causa: límite diario de subidas de YouTube (se renueva ~05:00 hora de Santiago). Reintentar uno a uno.
