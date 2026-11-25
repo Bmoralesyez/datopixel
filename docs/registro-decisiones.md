@@ -114,3 +114,6 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 - Primeros comentarios publicados con Windsor `create_comment` en los Reels ya públicos: Space Invaders (17901807567394672), Golf (17961501885017511), GPS (18081149900481110), Balón sin giro (17980195734176691), Bumerán (17969080967982426). Los de los demás Reels se publican cuando cada uno salga.
 | Atari cartuchos enterrados | 30/11 14:00 | gjaagec1tFk | 6b05b4afe73f9b60c4a20d3f | 6b05b4b25601072366bf05ff |
 | Pale Blue Dot Voyager | 30/11 18:00 | PENDIENTE (Zapier 429, reintentar) | 6b0646730f4bfc71d6c2ec78 | 6b0646740f4bfc71d6c2ec82 |
+| Semmelweis lavado de manos | 01/12 14:00 | PENDIENTE (Zapier 429, reintentar) | 6b064b0918dbb4068e6dbdc9 | 6b064b0a26ee4661c7fe6f6e |
+- 24/11 23:30–23:50: Zapier/YouTube respondió 429 (demasiadas solicitudes) en 4 intentos espaciados; quedan SIN subir a YouTube: Pale Blue Dot (30/11 18:00) y Semmelweis (01/12 14:00). TikTok e Instagram de ambos ya están programados. Reintentar YouTube (uno a la vez) con los títulos/descripciones de cada publicacion.md.
+- Comentarios IG publicados 24/11: Moneda (18143640814646177), Estrella fugaz (18105296801643338).
