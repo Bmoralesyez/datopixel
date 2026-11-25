@@ -37,6 +37,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | SUBIDO - Patinador gira - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 15/11/2026 18:03 |
 | Pelota de tenis pelusa - 15-11-2026 | programado | programado | programado | programado | 25/11/2026 14:00 |
 | Pelotas de golf hoyuelos - 13-11-2026 | programado | programado | programado | programado | 22/11/2026 14:00 |
+| Peloton ciclista estela - 25-11-2026 | incompleto | pendiente | pendiente | pendiente | 02/12/2026 14:00 |
 | SUBIDO - Pendulo de Foucault - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 21/11/2026 14:00 |
 | SUBIDO - Puente Tacoma Narrows - 11-11-2026 | publicado en las 3 | publicado | publicado | publicado | 12/11/2026 18:04 |
 | Salto Fosbury - 21-11-2026 | programado | programado | programado | programado | 27/11/2026 14:00 |
