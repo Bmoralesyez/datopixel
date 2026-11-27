@@ -49,3 +49,4 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | Space Invaders acelera - 14-11-2026 | programado | programado | programado | programado | 21/11/2026 18:00 |
 | SUBIDO - Tetris - 09-11-2026 | publicado en las 3 | publicado | publicado | publicado | 09/11/2026 21:04 |
 | SUBIDO - Tren ruedas conicas - 11-11-2026 | publicado en las 3 | publicado | publicado | publicado | 12/11/2026 10:06 |
+| Velero contra el viento - 26-11-2026 | incompleto | programado | pendiente | pendiente | 04/12/2026 14:00 |

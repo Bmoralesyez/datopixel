@@ -128,3 +128,5 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 - 26/11 22:25: YouTube al día. Semmelweis DIa4lYX7gFk, Microondas parte 2 AHVFPazWEZc y Pelotón s6oPzy3e8Zw subidos con ~2 min entre cada uno (sin 429). Regla práctica: espaciar subidas ≥2 min.
 | Moai que caminaron | 03/12 18:00 | g2SjtRRV1XU | 6b08de3586579aedae316660 | 6b08de37de90dbd69432a5f7 |
 - 26/11 22:35: IG primer comentario publicado en Saturno y Luna se aleja. Próximo hueco libre: 4/12 14:00.
+| Velero contra el viento | 04/12 14:00 | 3bhoHXNOHnA | 6b08e01032939cf734494695 | 6b08e01232939cf73449469f |
+- 26/11 22:50: sin errores 429 con subidas espaciadas ~7 min. Próximo hueco libre: 4/12 18:00.
