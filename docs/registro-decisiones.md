@@ -114,10 +114,10 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 - Primeros comentarios publicados con Windsor `create_comment` en los Reels ya públicos: Space Invaders (17901807567394672), Golf (17961501885017511), GPS (18081149900481110), Balón sin giro (17980195734176691), Bumerán (17969080967982426). Los de los demás Reels se publican cuando cada uno salga.
 | Atari cartuchos enterrados | 30/11 14:00 | gjaagec1tFk | 6b05b4afe73f9b60c4a20d3f | 6b05b4b25601072366bf05ff |
 | Pale Blue Dot Voyager | 30/11 18:00 | xc4tr_-VvvM | 6b0646730f4bfc71d6c2ec78 | 6b0646740f4bfc71d6c2ec82 |
-| Semmelweis lavado de manos | 01/12 14:00 | PENDIENTE (Zapier 429, reintentar) | 6b064b0918dbb4068e6dbdc9 | 6b064b0a26ee4661c7fe6f6e |
+| Semmelweis lavado de manos | 01/12 14:00 | DIa4lYX7gFk | 6b064b0918dbb4068e6dbdc9 | 6b064b0a26ee4661c7fe6f6e |
 - 24/11 23:30–23:50: Zapier/YouTube respondió 429 (demasiadas solicitudes) en 4 intentos espaciados; quedan SIN subir a YouTube: Pale Blue Dot (30/11 18:00) y Semmelweis (01/12 14:00). TikTok e Instagram de ambos ya están programados. Reintentar YouTube (uno a la vez) con los títulos/descripciones de cada publicacion.md.
 - Comentarios IG publicados 24/11: Moneda (18143640814646177), Estrella fugaz (18105296801643338).
-| Microondas parte 2 uvas plasma | 01/12 18:00 | PENDIENTE (Zapier throttled, reintentar) | 6b06567176a195fc16397b6c | 6b065672d24e6d7fe034da1b |
+| Microondas parte 2 uvas plasma | 01/12 18:00 | AHVFPazWEZc | 6b06567176a195fc16397b6c | 6b065672d24e6d7fe034da1b |
 - 25/11 00:30–01:20: Zapier/YouTube sigue limitado (429 / throttled). Pendientes en YouTube: Pale Blue Dot (30/11 18:00), Semmelweis (01/12 14:00), Microondas parte 2 (01/12 18:00). Posible causa: límite diario de subidas de YouTube (se renueva ~05:00 hora de Santiago). Reintentar uno a uno.
 - 25/11: primeros comentarios de Instagram añadidos (Windsor `create_comment`) a Reels que no tenían: Patinador (18146260468729082), Gatos (18134922952874172), Microondas (18128206046029333), Luna/«no cambia de tamaño» (17878665045695043). Anteriores del 24/11: Moneda (18143640814646177), Estrella fugaz (18105296801643338). Reels de 9–14/11 siguen sin comentario (publicados por Metricool antes del sistema; no se han comentado).
 | Peloton ciclista estela | 02/12 14:00 | PENDIENTE (Zapier throttled, reintentar) | 6b06bdf438460d88a719257b | 6b06bdf5109b98542f4d9e27 |
@@ -125,3 +125,4 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 - 25/11 07:45: YouTube sigue 'throttled' pasadas las 05:00 (Santiago), así que no era solo la cuota diaria. Pendientes en YouTube: Pale Blue Dot, Semmelweis, Microondas parte 2, Pelotón ciclista. Por indicación del usuario se sigue produciendo para TikTok/IG y se pondrá YouTube al día cuando se pueda.
 | Gran Hedor de Londres | 03/12 14:00 | dEzMKZTarfE | 6b08941b2e5d4c4775cd1ff2 | 6b08941cb9f666985749e5bb |
 - 26/11 17:20: Zapier/YouTube volvió a funcionar. Subidos Gran Hedor, Olbers y Pale Blue Dot (3 seguidos en ~1 min); el 4.º (Semmelweis) y un reintento a los ~2 min dieron 'throttled without retry'. Parece un límite por ráfaga/ventana: subir de a 1–2 por tanda y esperar. Siguen pendientes en YouTube: Semmelweis (01/12 14:00), Microondas parte 2 (01/12 18:00), Pelotón (02/12 14:00).
+- 26/11 22:25: YouTube al día. Semmelweis DIa4lYX7gFk, Microondas parte 2 AHVFPazWEZc y Pelotón s6oPzy3e8Zw subidos con ~2 min entre cada uno (sin 429). Regla práctica: espaciar subidas ≥2 min.

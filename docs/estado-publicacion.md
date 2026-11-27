@@ -31,7 +31,7 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | SUBIDO - Luna gigante horizonte - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 19/11/2026 21:11 |
 | Luna se aleja - 15-11-2026 | programado | programado | programado | programado | 26/11/2026 18:00 |
 | SUBIDO - Microondas - 14-11-2026 | publicado en las 3 | publicado | publicado | publicado | 15/11/2026 10:04 |
-| Microondas parte 2 uvas plasma - 25-11-2026 | incompleto | pendiente | pendiente | pendiente | 01/12/2026 18:00 |
+| Microondas parte 2 uvas plasma - 25-11-2026 | incompleto | programado | pendiente | pendiente | 01/12/2026 18:00 |
 | Moneda girando - 15-11-2026 | programado | programado | programado | programado | 24/11/2026 18:00 |
 | SUBIDO - Pac-Man - 09-11-2026 | publicado en las 3 | publicado | publicado | publicado | 09/11/2026 23:03 |
 | Pale Blue Dot Voyager - 24-11-2026 | incompleto | programado | pendiente | pendiente | 30/11/2026 18:00 |
@@ -39,12 +39,12 @@ Generado con `python3 scripts/publicacion.py indice`. El detalle de cada video e
 | SUBIDO - Patinador gira - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 15/11/2026 18:03 |
 | Pelota de tenis pelusa - 15-11-2026 | programado | programado | programado | programado | 25/11/2026 14:00 |
 | Pelotas de golf hoyuelos - 13-11-2026 | programado | programado | programado | programado | 22/11/2026 14:00 |
-| Peloton ciclista estela - 25-11-2026 | incompleto | pendiente | pendiente | pendiente | 02/12/2026 14:00 |
+| Peloton ciclista estela - 25-11-2026 | incompleto | programado | pendiente | pendiente | 02/12/2026 14:00 |
 | SUBIDO - Pendulo de Foucault - 13-11-2026 | publicado en las 3 | publicado | publicado | publicado | 21/11/2026 14:00 |
 | SUBIDO - Puente Tacoma Narrows - 11-11-2026 | publicado en las 3 | publicado | publicado | publicado | 12/11/2026 18:04 |
 | Salto Fosbury - 21-11-2026 | programado | programado | programado | programado | 27/11/2026 14:00 |
 | Salto de esqui V - 23-11-2026 | incompleto | pendiente | pendiente | pendiente | 29/11/2026 18:00 |
-| Semmelweis lavado de manos - 24-11-2026 | incompleto | pendiente | pendiente | pendiente | 01/12/2026 14:00 |
+| Semmelweis lavado de manos - 24-11-2026 | incompleto | programado | pendiente | pendiente | 01/12/2026 14:00 |
 | Space Invaders acelera - 14-11-2026 | programado | programado | programado | programado | 21/11/2026 18:00 |
 | SUBIDO - Tetris - 09-11-2026 | publicado en las 3 | publicado | publicado | publicado | 09/11/2026 21:04 |
 | SUBIDO - Tren ruedas conicas - 11-11-2026 | publicado en las 3 | publicado | publicado | publicado | 12/11/2026 10:06 |
