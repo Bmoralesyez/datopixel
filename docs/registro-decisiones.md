@@ -126,3 +126,5 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 | Gran Hedor de Londres | 03/12 14:00 | dEzMKZTarfE | 6b08941b2e5d4c4775cd1ff2 | 6b08941cb9f666985749e5bb |
 - 26/11 17:20: Zapier/YouTube volvió a funcionar. Subidos Gran Hedor, Olbers y Pale Blue Dot (3 seguidos en ~1 min); el 4.º (Semmelweis) y un reintento a los ~2 min dieron 'throttled without retry'. Parece un límite por ráfaga/ventana: subir de a 1–2 por tanda y esperar. Siguen pendientes en YouTube: Semmelweis (01/12 14:00), Microondas parte 2 (01/12 18:00), Pelotón (02/12 14:00).
 - 26/11 22:25: YouTube al día. Semmelweis DIa4lYX7gFk, Microondas parte 2 AHVFPazWEZc y Pelotón s6oPzy3e8Zw subidos con ~2 min entre cada uno (sin 429). Regla práctica: espaciar subidas ≥2 min.
+| Moai que caminaron | 03/12 18:00 | g2SjtRRV1XU | 6b08de3586579aedae316660 | 6b08de37de90dbd69432a5f7 |
+- 26/11 22:35: IG primer comentario publicado en Saturno y Luna se aleja. Próximo hueco libre: 4/12 14:00.
