@@ -1,4 +1,4 @@
-# DatoPixel: análisis de métricas y camino a la monetización (actualizado el 21/11/2026, 16:30)
+# DatoPixel: análisis de métricas y camino a la monetización (actualizado el 28/11/2026)
 
 Objetivo del canal (dicho por el usuario): llegar a monetizar con el tiempo. Este documento resume el análisis de métricas (Metricool y capturas de YouTube Studio), las reglas que debe aplicar el desarrollo de los videos y, desde el 21/11, **cómo se suben los videos con el sistema nuevo (sección 7)**. Versiones anteriores: 10/11, 13/11 y 14/11.
 
@@ -331,6 +331,28 @@ Cada carpeta de video lleva un archivo **`publicacion.md`** con una tabla (YouTu
 
 Al 21/11: 19 carpetas marcadas como "SUBIDO" (las ya publicadas en las 3 redes, incluido el péndulo de Foucault), 10 programadas (3 de ellas con YouTube pendiente) y 1 sin subir (`Luna cara oculta`, excluida a propósito).
 
-## 8. Próxima revisión
+## 8. Revisión del 28/11 (videos del 21 al 27/11, 3 a 7 días de vida)
 
-Revisar el 28/11: vistas por franja (14:00 y 18:00) de los videos del 21 al 26/11 en las tres redes, anomalía del video del tren, si "parte 2" y "Mándaselo a..." siguen generando compartidos, retención de TikTok (hoy vacía en Metricool), el estado de la prueba gratis de Zapier (fin 4/12), y si se retoma el tercer video diario (y a qué hora) o la prueba de 45 s.
+**Fuentes**: API de YouTube (vía Zapier), Zernio (TikTok) y Windsor.ai (Instagram, 21 a 28/11). Muestras pequeñas; diferencias menores a 30% son ruido.
+
+**1. La física del deporte se confirma en YouTube, no tanto en Instagram.**
+- YouTube: los 5 videos de deporte (golf, balón sin giro, tenis, básquetbol efecto, Fosbury) hicieron entre 668 y 940 vistas; el resto de los videos del período promedia ≈228. La "parte 2" de la Luna (862) también destacó.
+- Instagram: balón sin giro (618 vistas, 20 me gusta) y básquetbol parte 2 (591, 20 me gusta, 2 compartidos) son 4 veces el resto (105 a 192). Golf (168), tenis (107) y Fosbury (130) no despegaron. El ganador común de IG son los dos videos de balón/básquetbol, que además son partes 2 o derivados de los temas más fuertes del canal.
+- TikTok sigue plano (≈400 a 500 por video; tenis 639), sin diferencias por tema.
+- **Decisión: mantener deporte ≈1 de cada 3 videos, priorizando balones (fútbol, básquetbol, béisbol, voleibol) y partes 2 de los fuertes.**
+
+**2. Horario: 14:00 supera a 18:00 en YouTube (≈570 frente a ≈344), pero está confundido** con el tema y la edad del video (las 18:00 tuvieron temas más débiles y videos más recientes). En Instagram no hay diferencia: 14:00 ≈209 (≈140 sin el balón) y 18:00 ≈186 (≈122 sin el básquetbol). **Se mantienen 14:00 y 18:00; para separar el efecto, repartir deportes y partes 2 por igual entre ambas franjas.**
+
+**3. Compartidos y "Mándaselo a…"**: en Instagram solo 4 compartidos en 14 reels (básquetbol 2, Saturno 2). En TikTok, 10 compartidos en SpaceInv y 2 seguidores ganados fue lo máximo. No hay prueba de que el destinatario concreto aumente los compartidos; es una fórmula que no cuesta nada y se mantiene.
+
+**4. Anomalías**: Moneda (7 vistas en YouTube) y Saturno (52) son muy inferiores a lo previsto con estado público; causa desconocida (distribución del algoritmo o gancho débil). Ambos temas quedan como "no repetir sin cambiar el gancho". El video del tren (12/11) sigue pendiente de revisar en YouTube Studio por el usuario.
+
+**5. Comentarios**: todos los reels tienen 1 comentario (el primero, nuestro). Los reels de Fosbury y Eclipse (27/11) aún no tienen primer comentario; se ponen los reels públicos desde el 27/11 en adelante cuando se revisen.
+
+**6. Servicios**: Zapier limita ráfagas de subida a YouTube (se logró con ≥2 min de espacio entre subidas); la prueba Pro termina el 4/12, hay que revisar qué sigue funcionando. Tercer video diario: **no se retoma** por ahora, el cuello de botella es Zapier y los datos de YouTube dicen que es el tema, no la cantidad, lo que mueve las vistas.
+
+**Calendario al 28/11**: programado hasta el 4/12 18:00 (Pong). Primera franja libre: viernes 5/12 a las 14:00.
+
+## 9. Próxima revisión
+
+Revisar el 5/12: vistas de los videos del 28/11 al 4/12 (incluyendo Olbers, Gran Hedor, Moai, Velero y Pong, que son historia, ingeniería y videojuegos) frente a los deportes; si el calendario sin deportes baja el promedio de YouTube; anomalías de Moneda y Saturno; retención de TikTok (vacía en Metricool); el estado de Zapier tras el fin de la prueba (4/12); y los primeros comentarios de Instagram pendientes.
