@@ -130,5 +130,6 @@ Básquetbol (gUXANrbuKxY), Anillos de Saturno (pZVqK5Y-8P4) y Luna se aleja (M8A
 - 26/11 22:35: IG primer comentario publicado en Saturno y Luna se aleja. Próximo hueco libre: 4/12 14:00.
 | Velero contra el viento | 04/12 14:00 | 3bhoHXNOHnA | 6b08e01032939cf734494695 | 6b08e01232939cf73449469f |
 - 26/11 22:50: sin errores 429 con subidas espaciadas ~7 min. Próximo hueco libre: 4/12 18:00.
-| Pong primera máquina monedas | 04/12 18:00 | PENDIENTE (Zapier throttled 27/11 14:20) | 6b09b9fa30781d15b7f32e7e | 6b09b9fb866509866a59774c |
+| Pong primera máquina monedas | 04/12 18:00 | lmBgvrNGHAk | 6b09b9fa30781d15b7f32e7e | 6b09b9fb866509866a59774c |
 - 27/11 14:20: Zapier/YouTube volvió a 'throttled without retry' (2 intentos con 1 min de diferencia) tras 8 subidas exitosas el 26/11. Posible límite diario/ventana. Pong pendiente en YouTube (publish_at 2026-12-04T18:00:00-03:00).
+- 28/11 00:33: Pong subido a YouTube (lmBgvrNGHAk) al primer intento tras ~10 h de espera. Patrón: tras una racha de subidas Zapier bloquea unas horas; reintentar después.

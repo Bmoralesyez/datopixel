@@ -4,6 +4,6 @@ Estados v√°lidos: `pendiente`, `pendiente`, `publicado`. Cuando las 3 redes est√
 
 | Plataforma | Estado | Fecha y hora (Santiago) | Herramienta | ID o enlace | Primer comentario |
 |---|---|---|---|---|---|
-| YouTube | pendiente | 04/12/2026 18:00 | Zapier (privado + publishAt) |  | sin resolver |
+| YouTube | programado | 04/12/2026 18:00 | Zapier (privado + publishAt) | lmBgvrNGHAk | sin resolver |
 | TikTok | pendiente | 04/12/2026 18:00 | Zernio | 6b09b9fa30781d15b7f32e7e | no se puede |
 | Instagram | pendiente | 04/12/2026 18:00 | Zernio | 6b09b9fb866509866a59774c | pendiente (Windsor `create_comment`) |
